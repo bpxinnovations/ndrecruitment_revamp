@@ -1,0 +1,82 @@
+{
+  "main": [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "About",
+      "url": "/about"
+    },
+    {
+      "name": "Blog",
+      "url": "/posts"
+    },
+    {
+      "name": "Our Services",
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        {
+          "title": "Recruitment",
+          "links": [
+            { "name": "Skilled Worker Recruitment", "url": "/skilled-worker-recruitment" },
+            { "name": "Healthcare Recruitment", "url": "/healthcare-recruitment" },
+            { "name": "OSCE & NMC Support", "url": "/osce-nmc-support" },
+            { "name": "Visa Assistance & Consultancy", "url": "/visa-assistance" }
+          ]
+        },
+        {
+          "title": "Legal Support",
+          "links": [
+            { "name": "Family, Custody & Immigration", "url": "/immigration-law-advice" }
+
+          ]
+        },
+        {
+          "title": "Study Abroad",
+          "links": [
+            { "name": "Do you need to study abroad?", "url": "/study-abroad" }
+
+          ]
+        },
+        {
+          "title": "English & Exam Prep",
+          "links": [
+            { "name": "English Language Proficiency Support", "url": "/proficiency-support" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Contact",
+      "url": "/contact"
+    },
+        {
+      "name": "Jobs & Careers",
+      "url": "/jobs-and-careers"
+    }
+  ],
+  "footer": [
+     {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "About",
+      "url": "/about"
+    },
+    {
+      "name": "Blogs",
+      "url": "/posts"
+    },
+      {
+      "name": "Jobs & Careers",
+      "url": "/jobs-and-careers"
+    },
+    {
+      "name": "Contact us",
+      "url": "/contact"
+    }
+  ]
+}

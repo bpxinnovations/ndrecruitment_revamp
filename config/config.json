@@ -1,0 +1,58 @@
+{
+  "site": {
+    "title": "ND Recruitment",
+    "base_url": "/",
+    "favicon": "/images/favicon.png",
+    "logo": "/images/north.png",
+    "logo_width": "100",
+    "logo_height": "90",
+    "logo_text": "Andromeda"
+  },
+
+  "settings": {
+    "pagination": 6,
+    "summary_length": 200,
+    "blog_folder": "posts"
+  },
+
+  "params": {
+    "tag_manager_id": "",
+    "contact_form_action": "#",
+    "footer_content": "",
+    "copyright": ""
+  },
+
+  "contact_info": {
+    "phone": "+(233) 530 610 013",
+    "email": " info@ndrecruitment.com",
+    "location": "22 Falcons Drive, SpringField, MK6 3HJ"
+  },
+
+  "nav_button": {
+    "enable": true,
+    "label": "Sign Up",
+    "link": "https://themefisher.com/products/andromeda-light-nextjs"
+  },
+
+  "metadata": {
+    "meta_author": "Themefisher",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "North Devon recruitment"
+  },
+
+  "call_to_action": {
+    "enable": true,
+    "title": "Get Our Brochure Now",
+    "content": "Discover more about who we are and what we do — view our detailed company brochure by clicking the button below.",
+    "button": {
+      "label": "Download",
+      "link": ""
+    }
+  },
+
+  "disqus": {
+    "enable": true,
+    "shortname": "themefisher-template",
+    "settings": {}
+  }
+}
