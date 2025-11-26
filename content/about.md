@@ -101,6 +101,6 @@ our_office:
       location: Ahodwo Roundabout, 3rd floor, Nyarko Plaza
     - flag:  /images/about/flags/united-kingdom.png
       name: UK
-      location: 22 Falcons Drive, SpringField, MK6 3HJ
+      location: Office 1 cold bath Square , Farringdon , London EC1R 5HL
 
 
